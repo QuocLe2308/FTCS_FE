@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmantis_material_react=self.webpackChunkmantis_material_react||[]).push([[8838],{18838:(s,a,e)=>{e.r(a),e.d(a,{default:()=>c});var t=e(60899),i=e(44414);const c=()=>(0,i.jsxs)(t.Ay,{container:!0,spacing:3,children:[(0,i.jsx)(t.Ay,{item:!0,xs:12}),(0,i.jsx)(t.Ay,{item:!0,xs:12})]})}}]);

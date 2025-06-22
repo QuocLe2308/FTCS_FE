@@ -1,13 +1,13 @@
-# Freight Truck Connectivity System – Backend
+# Freight Truck Connectivity System – Frontend
 
-This is the backend service for the Freight Truck Connectivity System. It provides RESTful APIs for managing users, trucks, and delivery activities, built with Spring Boot and SQL Server.
+This is the frontend client for the Freight Truck Connectivity System, built with React.js. It communicates with the backend via RESTful APIs and provides a responsive, easy-to-use UI for logistics management.
 
 ---
 
-## 🔧 Technologies Used
+## 💻 Technologies Used
 
-- Java, Spring Boot, Spring Data JPA, Spring Security  
-- SQL Server  
-- RESTful APIs, JWT for authentication  
-- JUnit for unit testing  
-- Maven, Git
+- React.js  
+- React Query  
+- React Router  
+- Axios  
+- Git

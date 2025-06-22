@@ -30,7 +30,7 @@ This is the frontend project for a Dashboard system, built with React and the Ma
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>](https://github.com/QuocLe2308/FTCS_FE.git)
+    git clone https://github.com/QuocLe2308/FTCS_FE.git
     cd FTCS_FE
     ```
 
@@ -50,7 +50,7 @@ This is the frontend project for a Dashboard system, built with React and the Ma
 
 Here is the main folder structure of the project:
 ```
-kl-sp25-fe/
+FTCS_FE/
 ├── public/
 └── src/
     ├── api/          # Contains API call logic and SWR hooks
